@@ -1,0 +1,36 @@
+C:\Users\Lael\source\repos\api curso(backend)\api curso(backend)\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Lael\source\repos\api curso(backend)\api curso(backend)\bin\Debug\net8.0\appsettings.json
+C:\Users\Lael\source\repos\api curso(backend)\api curso(backend)\bin\Debug\net8.0\api curso(backend).staticwebassets.endpoints.json
+C:\Users\Lael\source\repos\api curso(backend)\api curso(backend)\bin\Debug\net8.0\api curso(backend).exe
+C:\Users\Lael\source\repos\api curso(backend)\api curso(backend)\bin\Debug\net8.0\api curso(backend).deps.json
+C:\Users\Lael\source\repos\api curso(backend)\api curso(backend)\bin\Debug\net8.0\api curso(backend).runtimeconfig.json
+C:\Users\Lael\source\repos\api curso(backend)\api curso(backend)\bin\Debug\net8.0\api curso(backend).dll
+C:\Users\Lael\source\repos\api curso(backend)\api curso(backend)\bin\Debug\net8.0\api curso(backend).pdb
+C:\Users\Lael\source\repos\api curso(backend)\api curso(backend)\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Lael\source\repos\api curso(backend)\api curso(backend)\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lael\source\repos\api curso(backend)\api curso(backend)\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lael\source\repos\api curso(backend)\api curso(backend)\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Lael\source\repos\api curso(backend)\api curso(backend)\obj\Debug\net8.0\api curso(backend).csproj.AssemblyReference.cache
+C:\Users\Lael\source\repos\api curso(backend)\api curso(backend)\obj\Debug\net8.0\api curso(backend).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lael\source\repos\api curso(backend)\api curso(backend)\obj\Debug\net8.0\api curso(backend).AssemblyInfoInputs.cache
+C:\Users\Lael\source\repos\api curso(backend)\api curso(backend)\obj\Debug\net8.0\api curso(backend).AssemblyInfo.cs
+C:\Users\Lael\source\repos\api curso(backend)\api curso(backend)\obj\Debug\net8.0\api curso(backend).csproj.CoreCompileInputs.cache
+C:\Users\Lael\source\repos\api curso(backend)\api curso(backend)\obj\Debug\net8.0\api curso(backend).MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lael\source\repos\api curso(backend)\api curso(backend)\obj\Debug\net8.0\api curso(backend).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lael\source\repos\api curso(backend)\api curso(backend)\obj\Debug\net8.0\scopedcss\bundle\api curso(backend).styles.css
+C:\Users\Lael\source\repos\api curso(backend)\api curso(backend)\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Lael\source\repos\api curso(backend)\api curso(backend)\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Lael\source\repos\api curso(backend)\api curso(backend)\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Lael\source\repos\api curso(backend)\api curso(backend)\obj\Debug\net8.0\staticwebassets\msbuild.api curso(backend).Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lael\source\repos\api curso(backend)\api curso(backend)\obj\Debug\net8.0\staticwebassets\msbuild.api curso(backend).Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Lael\source\repos\api curso(backend)\api curso(backend)\obj\Debug\net8.0\staticwebassets\msbuild.build.api curso(backend).props
+C:\Users\Lael\source\repos\api curso(backend)\api curso(backend)\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.api curso(backend).props
+C:\Users\Lael\source\repos\api curso(backend)\api curso(backend)\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.api curso(backend).props
+C:\Users\Lael\source\repos\api curso(backend)\api curso(backend)\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Lael\source\repos\api curso(backend)\api curso(backend)\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Lael\source\repos\api curso(backend)\api curso(backend)\obj\Debug\net8.0\api curs.B201C31A.Up2Date
+C:\Users\Lael\source\repos\api curso(backend)\api curso(backend)\obj\Debug\net8.0\api curso(backend).dll
+C:\Users\Lael\source\repos\api curso(backend)\api curso(backend)\obj\Debug\net8.0\refint\api curso(backend).dll
+C:\Users\Lael\source\repos\api curso(backend)\api curso(backend)\obj\Debug\net8.0\api curso(backend).pdb
+C:\Users\Lael\source\repos\api curso(backend)\api curso(backend)\obj\Debug\net8.0\api curso(backend).genruntimeconfig.cache
+C:\Users\Lael\source\repos\api curso(backend)\api curso(backend)\obj\Debug\net8.0\ref\api curso(backend).dll
