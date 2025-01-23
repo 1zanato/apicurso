@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("api curso(backend)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+605b6e04817304e42619c321d118dd9d30ab2124")]
 [assembly: System.Reflection.AssemblyProductAttribute("api curso(backend)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("api curso(backend)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
